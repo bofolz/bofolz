@@ -1,37 +1,16 @@
-# 👋 Hi there, I'm Bofolz!
+## 👋 Hi, I'm Bofolz!
+I'm a 17-year-old junior systems developer and graphic designer. I value software identity and self-reliance, with the ultimate goal of building my own desktop ecosystem — from custom palettes to a tailored IDE and browser.
 
-### 🦀 Junior Systems Developer | Building my own Ecosystem
+### 🛠 Tech Stack
+* **Dev:** Rust (currently learning), Python (foundations)
+* **OS & WM:** Linux (daily driver), NixOS (for 100% declarativeness), Niri WM
+* **UI/UX:** Figma, currently building a custom shell using Quick Shell
 
-I am a systems developer driven by a desire for **originality and digital independence**. I don't always agree with how modern tools and environments are designed, so my ultimate goal is to build my own ecosystem from scratch — including a custom IDE, custom utilities, and tailored system tools.
+### 🎨 Design Background
+I've been doing graphic design since 2020. Deeply understand color theory, composition, and typography. This background helps me blend low-level systems programming with clean, intentional visual aesthetics.
 
----
-
-### 🧠 What I'm Up To Right Now
-
-*   📚 **Learning Rust:** Transitioning from core concepts to building high-performance, low-level applications.
-*   ❄️ **NixOS Enthusiast:** My primary OS since June 2025. I chose NixOS for its total declarativeness — I know exactly every single package and config running on my machine.
-*   📐 **Wayland & Niri:** Using **Niri** as my scrollable-tiling window manager.
-*   💻 **Developing a Shell:** Currently building my custom shell/environment using **Quick Shell**.
-*   ⚙️ **Dotfiles:** Polishing my personal system configurations to make them public soon.
-
----
-
-### 🚀 Key Projects & Experience
-
-*   **Vibe-Code Shell:** Developed and successfully defended a custom terminal-based shell written in Python. This project consolidated my core programming foundation and fueled my passion for custom system interfaces.
-
----
-
-### 🎯 The Roadmap (My Vision)
-
-I am aiming for total self-reliance in my software stack. Here is what I plan to build as I master Rust:
-*   🛠️ **A Custom IDE:** Reimagining code editors with a unique workflow and layout.
-*   🌐 **Custom Browser:** A browser tailored around my specific vision of web systems (inspired by projects like Zen Browser).
-*   🎨 **Personal Ecosystem:** Developing a unified visual style, color palettes, and a suite of core desktop programs.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-*   **Languages:** Rust (Learning), Python (Core & Scripting)
-*   **OS/Environment:** Linux, NixOS, Niri WM, Quick Shell
+### 🎯 Goals
+* Build CLI tools and core programs in Rust.
+* Design a custom IDE with a unique, opinionated workflow.
+* Create a customized browser focused on clean system integration.
+* Publish my NixOS Dotfiles once they are fully polished.
